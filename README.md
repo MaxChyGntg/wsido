@@ -1,56 +1,27 @@
-# Welcome to your Expo app 👋
+#Welcome To WSIDO (What Should I Do?) App Github Repository
+this is official repository of WSIDO App which is a app that helps you to decide what to learn next in the field of programming, this app was made for people who are confused or desperate to learn programming and dont know where to start, this app will help you to find the best resources and courses based on your interests and goals, also you can decide what is the best programming language for you to learn based on your goals and interests, in the end this app will help you find the best path to learn programming and give you the best roadmap to achieve your goals, so if you are interested in learning programming and want to find the best resources and courses, this app is for you, so feel free to explore the repository and contribute to the project if you want to help us to make this app better, thank you for visiting our repository and we hope you find it useful and helpful in your programming journey.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+#How To Use This Repository❓️
+1. Clone the repository to your local machine using the command `git clone https://github.com
+/your-username/wsido.git`
+2. Navigate to the project directory using the command `cd wsido`
+3. Install the dependencies using the command `npm install`
+4. Start the development server using the command `npm start`
+5. Open your browser and go to `http://localhost:3000` to see the app in action
+6. You can also build the app for production using the command `npm run build`
+7. If you want to contribute to the project, you can create a new branch using the command `git checkout -b your-branch-name`, make your changes, and then push the changes to the repository using the command `git push origin your-branch-name`
+8. Finally, you can create a pull request to merge your changes into the main branch and we will review your changes and merge them if they are good, thank you for contributing to our project and we appreciate your help in making this app better for everyone.
 
-## Get started
+#Main Features
+1. Personalized Learning Path: The app will provide you with a personalized learning path based on your interests and goals, so you can find the best resources and courses to learn programming.
+2. Best Resources and Courses: The app will recommend you the best resources and courses based on your interests and goals, so you can find the best materials to learn programming.
+3. Programming Language Recommendation: The app will recommend you the best programming language to learn based on your goals and interests, so you can find the best language to start with.
+4. Roadmap to Learn Programming: The app will provide you with a roadmap to learn programming, so you can follow a structured path to achieve your goals and become a successful programmer.
+5. Community Support: The app will have a community support feature where you can
 
-1. Install dependencies
+#For who is this app for?
+This app was made for beginners who are interested in learning programming but don't know where to start,
+also for people who are confused about which programming language to learn or which resources to use, this app will help them to find the best path to learn programming and achieve their goals, so if you are a beginner who wants to learn programming and want to find the best resources and courses, this app is for you, so feel free to explore the app and find the best path to learn programming.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+#Made With Love By WSIDO Developer
+This app was made by only one developer and that is me, i am also desperately trying to learn programming and confuse to find the best resources to learn programming, so i decided to make this app to help myself and other people who are in the same situation as me, i hope this app will help you to find the best path to learn programming and achieve your goals, thank you for visiting our repository and we hope you find it useful and helpful in your programming journey. MaxyChyGntg ❤️
