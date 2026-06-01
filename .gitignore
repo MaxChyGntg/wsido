@@ -41,3 +41,8 @@ example
 # generated native folders
 /ios
 /android
+
+# env
+expo-env.d.ts
+uniwind-types.d.ts
+utils/.env
