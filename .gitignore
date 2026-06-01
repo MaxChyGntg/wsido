@@ -44,4 +44,4 @@ example
 
 # env
 uniwind-types.d.ts
-/src/app/.env
+.env
