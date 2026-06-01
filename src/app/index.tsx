@@ -1,17 +1,9 @@
-import { Text, View, StyleSheet } from "react-native";
-
+import { Text, View, Pressable } from "react-native";
+import './global.css'
+import { router } from "expo-router";
 export default function Index() {
   return (
-    <View style={styles.container}>
-      <Text>Edit src/app/index.tsx to edit this.</Text>
+    <View className="flex-1 justify-center items-center bg-black">
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
