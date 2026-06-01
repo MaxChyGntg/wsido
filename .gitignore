@@ -45,4 +45,4 @@ example
 # env
 expo-env.d.ts
 uniwind-types.d.ts
-utils/.env
+./src/apps/utils/.env
