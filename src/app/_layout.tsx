@@ -1,6 +1,6 @@
 import { Drawer } from "expo-router/drawer";
 import { SplashScreen } from "expo-router";
-import './global.css'
+import '../../global.css'
 export default function RootLayout() {
   return (
     <>
@@ -27,7 +27,6 @@ export default function RootLayout() {
         }}
       />
   </Drawer>
-
   </>
   )
 }
