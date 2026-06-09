@@ -1,32 +1,23 @@
-import { Drawer } from "expo-router/drawer";
+import { Stack } from "expo-router/stack";
 import { SplashScreen } from "expo-router";
 import '../../global.css'
 export default function RootLayout() {
   return (
     <>
-  <Drawer screenOptions={{
-      drawerStyle:{
-        backgroundColor: '#fef3c7',
-      },
-      headerStyle:{
-        backgroundColor: '#fef3c7',
-      }
-    }}>
-        <Drawer.Screen
-        name="index" // This is the name of the page and must match the url from root
-        options={{
-          headerShown: false,
-          drawerItemStyle: {display: 'none'}
-        }}
-      />
-        <Drawer.Screen
-        name="component" // This is the name of the page and must match the url from root
-        options={{
-          drawerLabel: 'Python',
-          title: 'Python',
-        }}
-      />
-  </Drawer>
+    <Stack>
+    <Stack.Screen 
+    name="index"
+    options={{animation: 'ios_from_right', headerShown: false}}
+    />
+        <Stack.Screen 
+    name="pages/login"
+    options={{animation: 'ios_from_right', headerShown: false}}
+    />
+        <Stack.Screen 
+    name="pages/signup"
+    options={{animation: 'ios_from_right', headerShown: false}}
+    />
+    </Stack>
   </>
   )
 }

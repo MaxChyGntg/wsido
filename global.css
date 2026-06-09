@@ -1,2 +1,13 @@
 @import 'tailwindcss';
 @import 'uniwind';
+
+@theme{
+    /* 60 primary*/
+    --color-bg: #0D1B2A;
+        --color-sectext: #1B263B;
+    /* 30  dominant color*/
+    --color-text: #778DA9;
+    --color-dusk: #415a77;
+    /* 10  for vibrant and cta button*/
+    --color-light: #E0E1DD;
+}

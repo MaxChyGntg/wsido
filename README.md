@@ -1,26 +1,68 @@
-# Welcome To WSIDO (What Should I Do?) App Github Repository
-this is official repository of WSIDO App which is a app that helps you to decide what to learn next in the field of programming, this app was made for people who are confused or desperate to learn programming and dont know where to start, this app will help you to find the best resources and courses based on your interests and goals, also you can decide what is the best programming language for you to learn based on your goals and interests, in the end this app will help you find the best path to learn programming and give you the best roadmap to achieve your goals, so if you are interested in learning programming and want to find the best resources and courses, this app is for you, so feel free to explore the repository and contribute to the project if you want to help us to make this app better, thank you for visiting our repository and we hope you find it useful and helpful in your programming journey.
+# What Should I Do?
+A simple app to help you manage your screen time and focus on your work.
 
-# How To Use This Repository❓️
-1. Clone the repository to your local machine using the command
-`git clone https://github.com
-/your-username/wsido.git`
-2. Navigate to the project directory using the command `cd wsido`
-3. Install the dependencies using the command `npm install`
-4. Start the development server using the command `npm start`
-5. Open your browser and go to `http://localhost:3000` to see the app in action
-6. You can also build the app for production using the command `npm run build`
-7. If you want to contribute to the project, you can create a new branch using the command `git checkout -b your-branch-name`, make your changes, and then push the changes to the repository using the command `git push origin your-branch-name`
-8. Finally, you can create a pull request to merge your changes into the main branch and we will review your changes and merge them if they are good, thank you for contributing to our project and we appreciate your help in making this app better for everyone.
-# Main Features ✨
-1. Personalized Learning Path: The app will provide you with a personalized learning path based on your interests and goals, so you can find the best resources and courses to learn programming.
-2. Best Resources and Courses: The app will recommend you the best resources and courses based on your interests and goals, so you can find the best materials to learn programming.
-3. Programming Language Recommendation: The app will recommend you the best programming language to learn based on your goals and interests, so you can find the best language to start with.
-4. Roadmap to Learn Programming: The app will provide you with a roadmap to learn programming, so you can follow a structured path to achieve your goals and become a successful programmer.
-5. Community Support: The app will have a community support feature where you can
-# For who is this app for 🤔
-This app was made for beginners who are interested in learning programming but don't know where to start,
-also for people who are confused about which programming language to learn or which resources to use, this app will help them to find the best path to learn programming and achieve their goals, so if you are a beginner who wants to learn programming and want to find the best resources and courses, this app is for you, so feel free to explore the app and find the best path to learn programming.
 
-# Made With Love By WSIDO Developer
-This app was made by only one developer and that is me, i am also desperately trying to learn programming and confuse to find the best resources to learn programming, so i decided to make this app to help myself and other people who are in the same situation as me, i hope this app will help you to find the best path to learn programming and achieve your goals, thank you for visiting our repository and we hope you find it useful and helpful in your programming journey. MaxyChyGntg ❤️
+| No | Komponen | Documentation | Navigation Link |
+| :-: | :--- | :--- | :--- |
+| 1 | **Features** | The features of the app. | [Features](#features) |
+| 2 | **Installation** | The installation process of the app. | [Installation](#installation) |
+| 3 | **Contributing** | How to contribute to the app. | [Contributing](#contributing)
+| 4 | **License** | The license under which the app is distributed. | [License](#license) |
+| 5 | **Contact** | How to contact the developers. | [Contact](#contact) |
+| 6 | **Acknowledgements** | Credits and thanks to contributors. | [Acknowledgements](#acknowledgements) |
+| 7 | **Disclaimer** | Important legal information. | [Disclaimer](#disclaimer) |
+| 8 | **What is the HIGH STAKES MODE?** | Explanation of the HIGH STAKES MODE feature. | [What is the HIGH STAKES MODE?](#what-is-the-high-stakes-mode) |
+| 9 | **How to Use HIGH STAKES MODE** | Instructions on how to use the HIGH STAKES MODE feature. | [How to Use HIGH STAKES MODE](#how-to-use-high-stakes-mode) |
+| 10 | **Benefits of HIGH STAKES MODE** | The advantages of using the HIGH STAKES MODE feature. | [Benefits of HIGH STAKES MODE](#benefits-of-high-stakes-mode) |
+| 11 | **Terms of Use** | The terms and conditions for using the app. | [Terms of Use](#terms-of-use) |
+
+
+## Features
+- Daily screen time tracking
+- Focus mode to block distracting apps
+- High Stakes mode to really help you manage your screen time
+- Time settings to block apps during specific hours
+- Customizable app blocking list
+## Installation
+1. Search for "What Should I Do?" in the app store and download it.
+2. Open the app and follow the on-screen instructions to set up your preferences.
+3. Start managing your screen time and focus on your work!
+## Contributing
+If you would like to contribute to the development of "What Should I Do?", please fork the repository and submit a pull request with your changes. We welcome contributions from the community!
+## LicenseThis project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details
+## Contact
+If you have any questions or feedback about "What Should I Do?", please feel free to contact us at chaymax000@gmail.com. We would love to hear from you!
+## Acknowledgements
+- This app was inspired by the need to manage screen time and focus on work in a world filled with distractions.
+- There were many focus apps that were not effective, which motivated us to create a better solution.
+- We would like to thank the open-source community for their contributions and support in making this app possible.
+
+## Disclaimer
+This app is intended to help users manage their screen time and focus on their work. However, it is not a substitute for professional help or advice. If you are struggling with screen addiction or other related issues, please seek help from a qualified professional. The developers of this app are not responsible for any negative consequences that may arise from the use of this app. Use it at your own risk.
+
+## What is the HIGH STAKES MODE?
+The HIGH STAKES MODE is a feature that allows users to set a high penalty for using distracting apps. When this mode is activated, users will be sending a message to a specified contact (e.g., a parent, friend, or mentor) every time they use a blocked app. This feature is designed to provide an extra layer of accountability and motivation for users to stay focused on their work and manage their screen time effectively.
+
+## How to Use HIGH STAKES MODE
+1. Open the "What Should I Do?" app and navigate to the settings.
+2. Enable the HIGH STAKES MODE by toggling the switch.
+3. Select a contact from your phone's contact list to receive notifications when you use a blocked app.
+4. Set the penalty message that will be sent to the contact when you use a blocked app.
+5. Save your settings and start using the app as usual.
+
+## Benefits of HIGH STAKES MODE
+- Provides an extra layer of accountability and motivation to manage screen time effectively.
+- Encourages users to stay focused on their work and avoid distractions.
+- Helps users build better habits and improve their productivity over time.
+- Can be a useful tool for parents to help their children manage their screen time and develop healthy habits.
+
+## Terms of Use
+By using the "What Should I Do?" app, you agree to the following terms of use:
+1. You are responsible for managing your screen time and using the app in a way that is safe and appropriate for you.
+2. The app is not a substitute for professional help or advice. If you are struggling with screen addiction or other related issues, please seek help from a qualified professional.   
+3. The developers of this app are not responsible for any negative consequences that may arise from the use of this app. Use it at your own risk.
+4. The HIGH STAKES MODE is an optional feature that provides an extra layer of accountability. It is your responsibility to use this feature in a way that is appropriate for you and the contact you choose to receive notifications.
+5. The app may collect and use data in accordance with our privacy policy. By using the app, you consent to the collection and use of your data as described in our privacy policy.
+6. The app may be updated from time to time, and we reserve the right to modify these terms of use at any time. We will notify users of any changes to the terms of use through the app or other means. Your continued use of the app after any changes to the terms of use constitutes your acceptance of the new terms.
+7. If you do not agree to these terms of use, please do not use the app. If you have any questions or concerns about these terms of use, please contact us at chay000@gmail.com.
+
